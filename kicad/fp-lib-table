@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "nanosegment")(type "KiCad")(uri "${KIPRJMOD}/nanosegment.pretty")(options "")(descr ""))
+)

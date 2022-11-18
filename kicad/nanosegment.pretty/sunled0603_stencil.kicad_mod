@@ -1,0 +1,15 @@
+(footprint "sunled0603_stencil" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 61EF54C6)
+  (attr smd)
+  (fp_text reference "REF**102" (at 0 0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 0.2 0.2) (thickness 0.05)))
+    (tstamp 05e5f229-ee1b-4890-b97c-8e7ece60ba60)
+  )
+  (fp_text value "sunled0603_stencil" (at 0 0.85 unlocked) (layer "F.Fab") hide
+    (effects (font (size 0.2 0.2) (thickness 0.05)))
+    (tstamp 9be5bfd6-bb09-4bcc-b7df-07ae161053e2)
+  )
+  (pad "" np_thru_hole circle (at -0.2 0) (size 0.254 0.254) (drill 0.254) (layers *.Mask) (tstamp 4805cbab-da73-4d3e-afa3-21868e76e954))
+  (pad "" np_thru_hole circle (at 0.2 0) (size 0.254 0.254) (drill 0.254) (layers *.Mask) (tstamp e2dc4785-3e17-472a-82b9-5050a49344b6))
+)
